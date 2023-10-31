@@ -1,0 +1,4 @@
+# ignore all .pdf files
+*.pdf
+id_nivel_heroi
+id_nivel_heroi.pub
